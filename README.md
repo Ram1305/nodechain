@@ -11,7 +11,7 @@
 #### Note
 
 - replace first `pubspec.yaml` file.
-- delete `pubspec.lock` file.
+- delete `pubspec.lock` file.zndvsdnfksnd
 - run `flutter upgrade` in project terminal.
 - run `flutter clean` in project terminal.
 - run `flutter pub get` in project terminal.
@@ -1246,5 +1246,6 @@ text_moderation_model.dart [text_moderation_model.dart](lib/models/sight_engine_
 - Swedish.dart
 - Norwegian.dart
 
-  =============================================#   n o d e c h a i n  
+  =============================================#   n o d e c h a i n 
+ 
  
